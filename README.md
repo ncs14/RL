@@ -1,2 +1,2 @@
 # RL
-Code and datasets for RL simulations
+Code, functions, and datasets for RL simulations
